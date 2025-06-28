@@ -1,5 +1,5 @@
 # A View of the World's Nations: A Data Cleaning Project
-
+![Gemini_Generated_Earth](https://github.com/user-attachments/assets/b12ced17-b355-401b-8031-b0c009f038fd)
 ### Description
 The goal of this project is to prepare a dataset using Python for further analysis by performing essential data cleaning tasks. The dataset, which contains information on 195 countries, was downloaded programmatically from Kaggle. It originates from the *Global Country Information Dataset 2023* by Nidula Elgiriyewithana. Access to the original dataset is [here](https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023/data).
 

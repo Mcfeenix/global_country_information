@@ -10,6 +10,8 @@ Cleaning steps included:
 - Addressing encoding corruption in text
 - Handling missing values
 
+This project demonstrates the process of preparing and cleaning a dataset for analysis. While missing data was addressed in two specific columns as examples, other columns still contain missing values. A comprehensive treatment of all missing data is beyond the scope of this portfolio project. However, any columns selected for further analysis should undergo appropriate handling of missing values to ensure the validity and reliability of the results.
+
 The final cleaned dataset consists of 195 rows and 35 columns, representing various indicators across countries.
 
 ### Dataset Columns

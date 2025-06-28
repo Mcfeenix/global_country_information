@@ -1,7 +1,7 @@
 # A View of the World's Nations: A Data Cleaning Project
 ![Gemini_Generated_Earth](https://github.com/user-attachments/assets/b12ced17-b355-401b-8031-b0c009f038fd)
 ### Description
-The goal of this project is to prepare a dataset using Python for further analysis by performing essential data cleaning tasks. The dataset, which contains information on 195 countries, was downloaded programmatically from Kaggle. It originates from the *Global Country Information Dataset 2023* by Nidula Elgiriyewithana. Access to the original dataset is [here](https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023/data).
+The goal of this project is to prepare a dataset using Python for further analysis by performing essential data cleaning tasks. The raw dataset (world-data-2023.csv), which contains information on 195 countries, was downloaded programmatically from Kaggle. It originates from the *Global Country Information Dataset 2023* by Nidula Elgiriyewithana. Access to the original dataset is [here](https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023/data).
 
 Cleaning steps included:
 - Standardizing column names for consistency
@@ -12,7 +12,7 @@ Cleaning steps included:
 
 This project demonstrates the process of preparing and cleaning a dataset for analysis. While missing data was addressed in two specific columns as examples, other columns still contain missing values. A comprehensive treatment of all missing data is beyond the scope of this portfolio project. However, any columns selected for further analysis should undergo appropriate handling of missing values to ensure the validity and reliability of the results.
 
-The final cleaned dataset consists of 195 rows and 35 columns, representing various indicators across countries.
+The final cleaned dataset (countries.csv) consists of 195 rows and 35 columns, representing various indicators across countries.
 
 ### Dataset Columns
 - Country: Name of the country.
